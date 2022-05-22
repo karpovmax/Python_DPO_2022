@@ -16,9 +16,6 @@
 
 # План
 
-| Class Teachers | Contact | Group| TA (contact)|  
+||Дата|Темы|Дедлайны|  
 |----------------|---------|------|-------|
-|Maria Tikhonova|tg: @mashkka_t|БПИ184|Alexandra Kogan (tg: @horror_in_black)|
-|Maksim Karpov|tg: @buntar29|БПИ181, БПИ182 |Kirill Bykov (tg: @darkydash), Victor Grishanin (tg: @vgrishanin)|
-|Polina Polinuna|tg: @ppolunina|БПИ185|Michail Kim (tg: @kimihailv)|
-|Vadim Kokhtev|tg: @despairazure|БПИ183|Daniil Kosakin (tg: @nieto95)|
+|16.05.2022|Введение в Python, Jupyter. Ввод-вывод, основные типы данных (int, float, str). Первые функции.||
