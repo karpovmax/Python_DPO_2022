@@ -15,7 +15,7 @@
 
 Формы контроля будут появляться на платформе Вышка Онлайн.
 
-# Проекты по сбору данных (один на выбор)
+# Проект по сбору данных (один на выбор)
 
 [Проект 1](https://docs.google.com/document/d/1PaQxkNbDg9Vaoe5BliY-LtRukzykUSGL9EqRzNq4nHs/edit?usp=sharing) – парсинг данных с помощью requests и BeautifulSoup (выдается после 10 занятия). Дедлайн: 3 июля 23:59
 
