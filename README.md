@@ -19,7 +19,7 @@
 
 [Проект 1](https://docs.google.com/document/d/1PaQxkNbDg9Vaoe5BliY-LtRukzykUSGL9EqRzNq4nHs/edit?usp=sharing) – парсинг данных с помощью requests и BeautifulSoup (выдается после 10 занятия). Дедлайн: 3 июля 23:59
 
-Проект 2 – сбор данных через API (выдается после 11 занятия). Дедлайн: 7 июля 23:59
+[Проект 2](https://docs.google.com/document/d/1VS4fQDVqSMT2bFj4FDMuSv8FQeiFtHSMlwkHpON6aCE/edit?usp=sharing) – сбор данных через API (выдается после 11 занятия). Дедлайн: 7 июля 23:59
 
 Проект 3 – сбор данных с помощью Selenium (выдается после 12 занятия). Дедлайн: 10 июля 23:59
 
