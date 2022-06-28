@@ -21,7 +21,7 @@
 
 [Проект 2](https://docs.google.com/document/d/1VS4fQDVqSMT2bFj4FDMuSv8FQeiFtHSMlwkHpON6aCE/edit?usp=sharing) – сбор данных через API (выдается после 11 занятия). Дедлайн: 7 июля 23:59
 
-Проект 3 – сбор данных с помощью Selenium (выдается после 12 занятия). Дедлайн: 10 июля 23:59
+[Проект 3](https://docs.google.com/document/d/1N9FyJVQsaYS8gohPw3gwVfDjWlazoWVGnHBxuwEDwuo/edit?usp=sharing) – сбор данных с помощью Selenium (выдается после 12 занятия). Дедлайн: 10 июля 23:59
 
 
 # План
