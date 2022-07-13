@@ -23,6 +23,9 @@
 
 [Проект 3](https://docs.google.com/document/d/1N9FyJVQsaYS8gohPw3gwVfDjWlazoWVGnHBxuwEDwuo/edit?usp=sharing) – сбор данных с помощью Selenium (выдается после 12 занятия). Дедлайн: 10 июля 23:59
 
+# Проект по телеграм-боту (бонусный)
+
+[ТЗ по боту](https://docs.google.com/document/d/1wc_VXOD6BKCHeaK3J6rNQwr4m2lpt8AupLUeKg8-utk/edit?usp=sharing). Дедлайн: 19 июля 23:59
 
 # План
 
