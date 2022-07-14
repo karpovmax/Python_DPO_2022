@@ -27,6 +27,10 @@
 
 [ТЗ по боту](https://docs.google.com/document/d/1wc_VXOD6BKCHeaK3J6rNQwr4m2lpt8AupLUeKg8-utk/edit?usp=sharing). Дедлайн: 19 июля 23:59
 
+# Проект по анализу данных
+
+[ТЗ по анализу данных](https://docs.google.com/document/d/12CgQETqYGRcnDj2r1-gqvu2jZKNzQ0xO8R4Wi0iuq4Q/edit?usp=sharing). Дедлайн: 31 июля 23:59
+
 # План
 
 ||Дата|Темы|Дедлайны|  
